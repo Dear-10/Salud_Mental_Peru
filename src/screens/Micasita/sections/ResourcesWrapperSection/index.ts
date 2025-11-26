@@ -1,0 +1,1 @@
+export { ResourcesWrapperSection } from "./ResourcesWrapperSection";
