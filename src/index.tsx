@@ -4,6 +4,6 @@ import { Micasita } from "./screens/Micasita";
 
 createRoot(document.getElementById("app") as HTMLElement).render(
   <StrictMode>
-    <Micasita />
+    <Micasita/>
   </StrictMode>,
 );
